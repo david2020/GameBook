@@ -1,3 +1,4 @@
+انشاالله راه بسازین
 # MojGame
 moj media game repository
 
@@ -20,4 +21,4 @@ how to work with git in github:
 5 - use this command to apply local repository on remote repository(on github):
 	>> git push -u origin master
 
-have a good time بچه ها
+have a good time بچه ها 
