@@ -20,4 +20,4 @@ how to work with git in github:
 5 - use this command to apply local repository on remote repository(on github):
 	>> git push -u origin master
 
-have a good time 
+have a good time بچه ها
